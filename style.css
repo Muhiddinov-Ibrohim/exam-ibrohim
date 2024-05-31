@@ -1,0 +1,91 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: rgb(216, 216, 255);
+    border-radius: 20px;
+    border: 3px solid red;
+}
+
+h2{
+    color: green;
+}
+
+.hayvonlar{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+
+.img{
+    text-align: center;
+}
+
+.h{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+
+.iframe{
+    background-color: black;
+    text-align: center;
+    font-size: 5px;
+    border-radius: 15px;
+}
+
+h3{
+    color: green;
+}
+
+.input{
+    width: 1000px;
+    height: 25px;
+    
+}
+
+button{
+    color: black;
+    background-color: #a5a5ff;
+    width: 200px;
+}
+
+.h4{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+   
+}
+
+td{
+    border: 2px solid rgb(84, 84, 84);
+}
+
+.green{
+    color: white;
+    background-color: green;
+}
+
+.blue{
+    color: white;
+    background-color: blue;
+}
+
+.red{
+    color: white;
+    background-color: red;
+}
+
+.black{
+    color: white;
+    background-color: black;
+}
+
+.imgg{
+    width: 700px;
+}
